@@ -1,2 +1,2 @@
-# Reverse-nums-in-docx
+# Reverse numbers in docx file
 with python
